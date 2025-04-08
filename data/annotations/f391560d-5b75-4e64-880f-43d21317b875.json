@@ -1,5 +1,1113 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone in the world is going to bed one night or another with fear or pain or loss or disappointment"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "75cf7c57-c0a8-4a5c-87d9-d6ddf326f3d8"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And yet each of us has awakened or risen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "9fdfd5f3-3e8d-43b3-a0ac-c0986876891a"
+    },
+    {
+      "start_time": 13,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, somehow has made our ablution seeing other human beings and said “morning, how are you?” Fine, thanks and you?”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "24f9586d-6972-4f92-a5e1-d601ef338d56"
+    },
+    {
+      "start_time": 20,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is amazing. And wherever that abides in the human being there is the nobleness of the human spirit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "1e863e9d-1ddf-456f-b0e5-f5872d0fe2b1"
+    },
+    {
+      "start_time": 28,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "despite it all, Black and White, Asain, Spanish, Native American, pretty, plain, thin, fat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "2b4476a2-ca27-4157-86a1-546da659beda"
+    },
+    {
+      "start_time": 38,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vow to celibate, we rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "b4789839-28c7-4f79-8246-2d687c387409"
+    },
+    {
+      "start_time": 42,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You may write me down in history,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "b057c7c4-5aae-4e6f-a719-b7fcf97a9014"
+    },
+    {
+      "start_time": 45,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With your bitter, twisted lies,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "bd1fb8be-3b75-45b9-a60e-3787590ded10"
+    },
+    {
+      "start_time": 47,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You may trod me in the very dirt"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "8bb71e8a-f52d-4feb-b97e-17a246d80c05"
+    },
+    {
+      "start_time": 50,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But still, like dust, I’ll rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "305bd634-3ec8-46fa-9cd8-057cddc13f07"
+    },
+    {
+      "start_time": 54,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does my sassiness upset you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "252d2075-f7be-46c2-9396-db34d0b7ccbf"
+    },
+    {
+      "start_time": 57,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why are you beset with gloom?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "d31a2ee1-b389-4893-99a9-c307f247b6a4"
+    },
+    {
+      "start_time": 59,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just cause I walk as if I’ve got oil wells pumping in my living room."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Altered"
+        }
+      ],
+      "uuid": "24c4ad30-a757-4b63-9f07-cc255192d25f"
+    },
+    {
+      "start_time": 65,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just like suns and like moons with the certainty of tides,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Altered"
+        }
+      ],
+      "uuid": "fef4a8a1-6c19-41bf-8021-cbd14db2983d"
+    },
+    {
+      "start_time": 71,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just like hopes springing high,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "8f9c8121-9a78-40ad-b075-5bbb3c9ef31f"
+    },
+    {
+      "start_time": 73,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still I rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "237a78be-6212-4067-99c4-b8a92cf3cfb5"
+    },
+    {
+      "start_time": 75,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you want to see me broken?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "837b41c6-3911-43a3-9331-4face7357e7c"
+    },
+    {
+      "start_time": 77,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bowed head and lowered eyes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "8530c8cd-2c4e-4009-b61f-07747d3c92b7"
+    },
+    {
+      "start_time": 80,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shoulders falling down like teardrops,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "414b4c6a-dbdd-42b8-bfab-24f437093bd3"
+    },
+    {
+      "start_time": 83,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Weakened by my soulful cries?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "95acc7a2-eb31-47a4-8db0-3a848daf88ad"
+    },
+    {
+      "start_time": 85,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does my sassiness upset you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Altered"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Laugh"
+        }
+      ],
+      "uuid": "7819e1dd-7638-4530-a0b9-b581e4b22e95"
+    },
+    {
+      "start_time": 89,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don’t take it so hard just cause I laugh as if I have gold mines diggin’ in my own backyard."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Altered"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Laugh"
+        }
+      ],
+      "uuid": "8fda3ee5-c021-415b-97cb-e20b2b19ec2f"
+    },
+    {
+      "start_time": 100,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can shoot me with your words,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Altered"
+        }
+      ],
+      "uuid": "c02dd409-3de6-487f-97b2-5039636e73f5"
+    },
+    {
+      "start_time": 103,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can cut me with your lies,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Altered"
+        }
+      ],
+      "uuid": "023e55b9-4566-4cc5-97f2-7f8646330956"
+    },
+    {
+      "start_time": 105,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can kill me with your hatefulness,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "a2105391-15bf-4dd5-9d5d-fd07c9236830"
+    },
+    {
+      "start_time": 107,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But just like life,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "52bea5e6-52b4-4898-b071-1c0a97615db9"
+    },
+    {
+      "start_time": 109,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        }
+      ],
+      "uuid": "e8c8952b-d16c-4474-90f6-30b93be1bef7"
+    },
+    {
+      "start_time": 111,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does my sexiness offend you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "7532d632-317e-4cb3-bdba-2d636f3f027f"
+    },
+    {
+      "start_time": 113,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aw, does it come as a surprise that I dance"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "0e92b1c3-6b3a-4c94-a32e-bff7e2b2b958"
+    },
+    {
+      "start_time": 121,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As if I have a diamond at the meeting of my thighs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": ""
+        }
+      ],
+      "uuid": "be04bb47-3b70-46ea-990f-b3b87b3f8de9"
+    },
+    {
+      "start_time": 126,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Out of the huts of history's shame I rise,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        }
+      ],
+      "uuid": "961caf0b-c073-459c-9fd6-795255f12981"
+    },
+    {
+      "start_time": 130,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Up from a past rooted in pain, I rise"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        }
+      ],
+      "uuid": "5c2b4e0d-8ca9-4ca9-9192-51e057f2b080"
+    },
+    {
+      "start_time": 133,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A black ocean, leaping and wide,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        }
+      ],
+      "uuid": "587c2db3-5199-49b2-97b0-cf7663f6773c"
+    },
+    {
+      "start_time": 136,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welling and swelling, I bear in the tide."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        }
+      ],
+      "uuid": "e612e9bf-1535-4983-af21-2730a469ab63"
+    },
+    {
+      "start_time": 141,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Leaving behind nights of terror and fear, I rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "792c6b62-4065-43cc-9218-574fa82f27ab"
+    },
+    {
+      "start_time": 147,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Into a daybreak mircalously clear, I rise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Title"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "e5683bef-eebd-4194-844f-33b6f769d403"
+    },
+    {
+      "start_time": 152,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bring the gifts that my ancestors gave, I am the dream and the hope of the slave."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "a78540d6-0bc5-4676-9784-1eadc6715499"
+    },
+    {
+      "start_time": 161,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, naturally,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "df75403a-8c2b-427c-a4cc-52f4a0b37422"
+    },
+    {
+      "start_time": 169,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There I go rising."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "a91b4d95-b85d-4c95-9a19-055cf57be787"
+    }
+  ],
   "set": "Default",
   "event_id": "3f6d3c40-be2b-490c-9102-fd62a71ee421",
   "source_id": "b8d955eb-0bc3-4ecd-9ee6-ca677014300c"
