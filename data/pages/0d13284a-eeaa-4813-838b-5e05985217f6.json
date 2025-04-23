@@ -3,10 +3,10 @@
   "created_at": "2025-04-08T17:29:07.556Z",
   "created_by": "absempere",
   "title": "Angelou (Test)",
-  "updated_at": "2025-04-08T17:29:07.556Z",
+  "updated_at": "2025-04-23T20:34:44.534Z",
   "updated_by": "absempere",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
